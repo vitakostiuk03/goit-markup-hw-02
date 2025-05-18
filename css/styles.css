@@ -108,6 +108,18 @@ a{
     text-transform:capitalize;
 }
 
+.team-item{
+    background: #fff;
+}
+
+.team-member-name{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
 .team-member-role{
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -166,3 +178,4 @@ a{
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
+

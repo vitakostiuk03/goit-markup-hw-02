@@ -63,6 +63,7 @@ a{
     color: #fff;
 }
 
+
 .main-button{
     background-color: #4D5AE5;
     font-weight: 500;
@@ -109,8 +110,9 @@ a{
 }
 
 .team-item{
-    background: #fff;
+    background-color: #fff;
 }
+
 
 .team-member-name{
     font-weight: 500;
@@ -157,7 +159,7 @@ a{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
